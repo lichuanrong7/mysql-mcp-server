@@ -41,7 +41,7 @@ MySQL MCP服务是一个基于Node.js开发的API服务，为Cursor AI提供直�
 1. **克隆代码仓库**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lichuanrong7/mysql-mcp-server.git
 cd mysql-mcp-server
 ```
 
